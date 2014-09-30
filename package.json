@@ -1,0 +1,16 @@
+{
+  "name": "nxtgencoders",
+  "version": "0.0.0",
+  "description": "",
+  "main": "bush-bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "array-extended": "0.0.11",
+    "keypress": "^0.2.1",
+    "temporal": "^0.3.8"
+  }
+}
