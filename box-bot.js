@@ -10,7 +10,7 @@ var five = require("johnny-five"),
   array = require('array-extended'),
   keypress = require('keypress'),
   board = new five.Board({
-    port : "/dev/tty.CAPEBOT-DevB"
+    //port : "/dev/tty.CAPEBOT-DevB"
   });
 
 // The board's pins will not be accessible until
